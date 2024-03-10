@@ -78,5 +78,5 @@ tech talk 2번, 매주!! comment 2번, vote 2번 22222222222222
 ### 대체 과제 & 결석 사유서
 - 대체 과제 : 해당 주차 과제 동일하게 진행, 스터디 마감일 06/06 이전까지 제출
 - 결석 사유서 : 운영진에게 제출(shihyunlim1217@naver.com 또는 카톡!)
-[동아리 결석 사유서.hwpx](동아리 결석 사유서.hwpx) | [동아리 결석 사유서.docx]()
+[동아리 결석 사유서.hwpx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/79ac376c0f8fa9da394a04ad856dec171231ffee/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C.hwpx) | [동아리 결석 사유서.docx]()
 
