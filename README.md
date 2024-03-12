@@ -77,6 +77,6 @@ tech talk 2번, 매주!! comment 2번, vote 2번 22222222222222
 - 결석사유가 학교공결처리기준에 부합시 **대체과제 & 결석사유서**를 통해 스터디경고를 차감가능
 ### 대체 과제 & 결석 사유서
 - 대체 과제 : 해당 주차 과제 동일하게 진행, 스터디 마감일 06/06 이전까지 제출
-- 결석 사유서 : 운영진(임시현, 조예림)에게 제출(shihyunlim1217@naver.com 또는 카톡!)
+- 결석 사유서 : 임시현에게 제출(shihyunlim1217@naver.com 또는 카톡!)
 [동아리 결석 사유서.hwpx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/79ac376c0f8fa9da394a04ad856dec171231ffee/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C.hwpx) | [동아리 결석 사유서.docx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/b31d7911b3a5c531adf8b7e22c62b9bf3df5a733/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C_word%EC%9A%A9.docx)
 
