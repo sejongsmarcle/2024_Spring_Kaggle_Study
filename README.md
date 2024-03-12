@@ -40,7 +40,7 @@ kaggle notebook 발표 (20 min)
 |회차|날짜|내용|competition🏆|
 |---|---|---|---|
 |0주차|24.03.13|OT|x|
-|1주차|24.03.21|[Spaceship Titanic]([https://www.kaggle.com/competitions/2024_SMARCLE_KS_1/overview))|x|
+|1주차|24.03.21|[Spaceship Titanic](https://www.kaggle.com/competitions/2024_SMARCLE_KS_1/overview)|x|
 |2주차|24.03.28|Spaceship Titanic|x|
 |3주차|24.04.04|[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)|x|
 |4주차|24.04.11|House Prices - Advanced Regression Techniques|x|
