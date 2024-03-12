@@ -37,17 +37,17 @@ kaggle notebook 발표 (20 min)
 - 시간: **목요일 7시 ~ 9시**
 - 장소: **센B109**
 
-|회차|날짜|내용|링크|
+|회차|날짜|내용|competition🏆|
 |---|---|---|---|
 |0주차|24.03.13|OT|x|
-|1주차|24.03.21|타이타닉 2진 분류|x|
-|2주차|24.03.28|타이타닉 2진 분류|x|
-|3주차|24.04.04|보스턴 집값 회귀|x|
-|4주차|24.04.11|보스턴 집값 회귀 & 뒷풀이|x|
-|5주차|24.05.02|이미지 다중 분류 - flower classification|x|
-|6주차|24.05.09|이미지 다중 분류 - flower classification|x|
-|7주차|24.05.16|시계열 텍스트 분류|x|
-|8주차|24.05.23|시계열 텍스트 분류|x|
+|1주차|24.03.21|[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview)|x|
+|2주차|24.03.28|Spaceship Titanic|x|
+|3주차|24.04.04|[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)|x|
+|4주차|24.04.11|House Prices - Advanced Regression Techniques|x|
+|5주차|24.05.02|[Flower image - Flowers Recognition](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)|x|
+|6주차|24.05.09|Flower image - Flowers Recognition|x|
+|7주차|24.05.16|[Contradictory, My Dear Watson](https://www.kaggle.com/competitions/contradictory-my-dear-watson/overview)|x|
+|8주차|24.05.23|Contradictory, My Dear Watson|x|
 |예비 주차|24.05.30|x|x|
 
 ## 스터디 졸업 요건 
@@ -77,6 +77,6 @@ tech talk 2번, 매주!! comment 2번, vote 2번 22222222222222
 - 결석사유가 학교공결처리기준에 부합시 **대체과제 & 결석사유서**를 통해 스터디경고를 차감가능
 ### 대체 과제 & 결석 사유서
 - 대체 과제 : 해당 주차 과제 동일하게 진행, 스터디 마감일 06/06 이전까지 제출
-- 결석 사유서 : 운영진에게 제출(shihyunlim1217@naver.com 또는 카톡!)
+- 결석 사유서 : 운영진(임시현, 조예림)에게 제출(shihyunlim1217@naver.com 또는 카톡!)
 [동아리 결석 사유서.hwpx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/79ac376c0f8fa9da394a04ad856dec171231ffee/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C.hwpx) | [동아리 결석 사유서.docx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/b31d7911b3a5c531adf8b7e22c62b9bf3df5a733/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C_word%EC%9A%A9.docx)
 
