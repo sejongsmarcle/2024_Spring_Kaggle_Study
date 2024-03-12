@@ -37,18 +37,18 @@ kaggle notebook 발표 (20 min)
 - 시간: **목요일 7시 ~ 9시**
 - 장소: **센B109**
 
-|회차|날짜|내용|competition🏆|
-|---|---|---|---|
-|0주차|24.03.13|OT|x|
-|1주차|24.03.21|[Spaceship Titanic](https://www.kaggle.com/competitions/2024_SMARCLE_KS_1/overview)|x|
-|2주차|24.03.28|Spaceship Titanic|x|
-|3주차|24.04.04|[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)|x|
-|4주차|24.04.11|House Prices - Advanced Regression Techniques|x|
-|5주차|24.05.02|[Flower image - Flowers Recognition](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)|x|
-|6주차|24.05.09|Flower image - Flowers Recognition|x|
-|7주차|24.05.16|[Contradictory, My Dear Watson](https://www.kaggle.com/competitions/contradictory-my-dear-watson/overview)|x|
-|8주차|24.05.23|Contradictory, My Dear Watson|x|
-|예비 주차|24.05.30|x|x|
+|회차|날짜|내용|주제|competition🏆|
+|---|---|---|---|---|
+|0주차|24.03.13|OT|캐글 가이드, 스터디 사전 숙제공지!!||
+|1주차|24.03.21|Spaceship Titanic - EDA|binary classification|[Spaceship Titanic](https://www.kaggle.com/competitions/2024_SMARCLE_KS_1/overview)|
+|2주차|24.03.28|Spaceship Titanic - Model|binary classification|[Spaceship Titanic](https://www.kaggle.com/competitions/2024_SMARCLE_KS_1/overview)|
+|3주차|24.04.04|House Prices - EDA |Regression|x|
+|4주차|24.04.11|House Prices - Model|Regression|x|
+|5주차|24.05.02|Flower image Recognition - EDA|multi classfication & image|x|
+|6주차|24.05.09|Flower image Recognition - Model|multi classfication & image|x|
+|7주차|24.05.16|Contradictory, My Dear Watson - EDA|Time-series data|x|
+|8주차|24.05.23|Contradictory, My Dear Watson - Model|Time-series data|x|
+|예비 주차|24.05.30|x|x|x|
 
 ## 스터디 졸업 요건 
 ```
