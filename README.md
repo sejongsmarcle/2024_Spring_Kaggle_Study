@@ -44,11 +44,11 @@ kaggle notebook 발표 (20 min)
 |2주차|24.03.28|Spaceship Titanic - Model|binary classification|[Spaceship Titanic](https://www.kaggle.com/competitions/2024_SMARCLE_KS_1/overview)|
 |3주차|24.04.04|House Prices - EDA |Regression|[house price](https://www.kaggle.com/competitions/2024smarcleks2house-price/overview)|
 |4주차|24.04.11|House Prices - Model|Regression|[house price](https://www.kaggle.com/competitions/2024smarcleks2house-price/overview)|
-|5주차|24.05.02|Flower image Recognition - EDA|multi classfication & image|x|
-|6주차|24.05.09|Flower image Recognition - Model|multi classfication & image|x|
-|7주차|24.05.16|Contradictory, My Dear Watson - EDA|Time-series data|x|
-|8주차|24.05.23|Contradictory, My Dear Watson - Model|Time-series data|x|
-|예비 주차|24.05.30|x|x|x|
+|5주차|24.05.02|캐글 회식!|x|x|
+|6주차|24.05.09|Flower image Recognition - EDA|multi classfication & image|x|
+|7주차|24.05.16|Flower image Recognition - Model|multi classfication & image|x|
+|8주차|24.05.23|Contradictory, My Dear Watson - EDA|Time-series data|x|
+|9주차|24.05.30|Contradictory, My Dear Watson - Model|Time-series data|x|
 
 ## 스터디 졸업 요건 
 ```
