@@ -45,8 +45,8 @@ kaggle notebook 발표 (20 min)
 |3주차|24.04.04|House Prices - EDA |Regression|[house price](https://www.kaggle.com/competitions/2024smarcleks2house-price/overview)|
 |4주차|24.04.11|House Prices - Model|Regression|[house price](https://www.kaggle.com/competitions/2024smarcleks2house-price/overview)|
 |5주차|24.05.02|캐글 회식!|x|x|
-|6주차|24.05.09|Fashion MNIST - EDA|multi classfication & image|x|
-|7주차|24.05.16|Fashion MNIST - Model|multi classfication & image|x|
+|6주차|24.05.09|Fashion MNIST - EDA|multi classfication & image|[Fashion MNIST](https://www.kaggle.com/competitions/2024-smarcle-ks-3-fashion-mnist2/overview)|
+|7주차|24.05.16|Fashion MNIST - Model|multi classfication & image|[Fashion MNIST](https://www.kaggle.com/competitions/2024-smarcle-ks-3-fashion-mnist2/overview)|
 |8주차|24.05.23|Contradictory, My Dear Watson - EDA|Time-series data|x|
 |9주차|24.05.30|Contradictory, My Dear Watson - Model|Time-series data|x|
 
