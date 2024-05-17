@@ -47,8 +47,8 @@ kaggle notebook 발표 (20 min)
 |5주차|24.05.02|캐글 회식!|x|x|
 |6주차|24.05.09|Fashion MNIST - EDA|multi classfication & image|[Fashion MNIST](https://www.kaggle.com/competitions/2024-smarcle-ks-3-fashion-mnist2/overview)|
 |7주차|24.05.16|Fashion MNIST - Model|multi classfication & image|[Fashion MNIST](https://www.kaggle.com/competitions/2024-smarcle-ks-3-fashion-mnist2/overview)|
-|8주차|24.05.23|Contradictory, My Dear Watson - EDA|Time-series data|x|
-|9주차|24.05.30|Contradictory, My Dear Watson - Model|Time-series data|x|
+|8주차|24.05.23|Forecasting Sales - EDA|Time-series data|[Forecasting Sales](https://www.kaggle.com/t/1d4e8c1250e14edc85dc919d74786e0e)|
+|9주차|24.06.02|Forecasting Sales - Model|Time-series data|[Forecasting Sales](https://www.kaggle.com/t/1d4e8c1250e14edc85dc919d74786e0e)|
 
 ## 스터디 졸업 요건 
 ```
