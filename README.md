@@ -18,6 +18,7 @@
 - kaggle competition (1차시 - EDA, 2차시 - 모델링)
 - kaggle notebook 발표
 - comment & vote
+- 모든 질문은 slack에서!!
 
 ```
 [스터디 전]
